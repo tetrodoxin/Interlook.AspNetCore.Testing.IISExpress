@@ -6,11 +6,12 @@
     <LangVersion>latest</LangVersion>
 
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Title>Interlook.AspNetCore.Testing.IISExpress</Title>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
     <Version>1.0.0</Version>
     <Company>Andreas H.</Company>
-    <Description>A wrapper for creating an instance of IIS-Express server for integration testing.</Description>
+    <Description>A wrapper for creating an instance of IIS-Express server for ASP.NET Core integration testing.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Copyright>2013-2020 tetrodoxin</Copyright>
     <RepositoryUrl>https://github.com/tetrodoxin/Interlook.AspNetCore.Testing.IISExpress.git</RepositoryUrl>
